@@ -1,0 +1,22 @@
+.flex_container1 {
+    display : flex;
+    flex-direction : row;
+    background-color :#eeee;
+    
+}
+
+.flex_container2{
+    display : flex;
+    flex-direction :column;
+    background-color :#eeee ;
+}
+.nav-link{
+    display: flex;
+    flex-direction: row;
+
+}
+#main-section{
+    position: right;
+    padding: 3ch;
+    
+
